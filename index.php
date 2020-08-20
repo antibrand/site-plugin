@@ -6,7 +6,7 @@
  * @version     1.0.0
  * @link        https://github.com/antibrand/plugin
  *
- * Plugin Name:  plugin
+ * Plugin Name:  site plugin
  * Plugin URI:   https://github.com/antibrand/plugin
  * Description:  A basic starter plugin for your website management system.
  * Version:      1.0.0
